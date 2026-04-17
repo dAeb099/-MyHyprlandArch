@@ -12,4 +12,13 @@
 <img width="2560" height="1440" alt="wallpaper6" src="https://github.com/user-attachments/assets/1d365279-5ec9-4abe-8656-188b5d50bda6" /> <img width="1920" height="1080" alt="wallpaper5" src="https://github.com/user-attachments/assets/f3575b84-79fb-417c-b583-d0f73b9ed2f3" /> <img width="2912" height="1632" alt="wallpaper4" src="https://github.com/user-attachments/assets/84e43dd1-45e0-42e4-976c-81df4b3a57b0" />
 <img width="1620" height="1040" alt="wallpaper3" src="https://github.com/user-attachments/assets/8f750961-4aab-445e-aef2-856b1d0f528c" /> <img width="2560" height="1440" alt="wallpaper2" src="https://github.com/user-attachments/assets/0e3f99bd-9d50-407b-9ecb-9be589cac6c0" /> <img width="4096" height="2736" alt="wallpaper1" src="https://github.com/user-attachments/assets/1977b2b2-2abb-46ea-8e50-78d127ce2e13" />
 
+## ⚙️ Installation
+Follow these commands:
+```bash
+sudo pacman -S base-devel git
+git clone https://github.com/dAeb099/-MyHyprlandArch/
+cd ./-MyHyprlandArch/
+chmod +x ./install.sh
+./install.sh
+```
 
