@@ -23,7 +23,7 @@ chmod +x ./install.sh
 ./install.sh
 ```
 ---
-## ⌨️Keybindings
+## ⌨️ Keybindings
 | Bind | Action |
 |------|--------|
 | `Win + Q` | Open Alacritty |
@@ -39,4 +39,18 @@ chmod +x ./install.sh
 | `Win + Shift + ←↑↓→` | Resize window |
 | `Win + Shift + 1-9` | Move window to workspace |
 | `PrintScreen` | Screenshot (Hyprshot) |
+
+---
+## 💾 Installed programs
+> Terminal: alacritty
+> Explorer: nautilus
+> Launcher: wofi
+> Status bar: waybar
+> Text editor: neovim
+> Screenshoter: hyprshot
+> AUR manager: yay
+> Resource monitor: btop
+> Network monitors: bandwhich, gping
+> Background switcher: awww
+> Network manager: networkmanager
 
