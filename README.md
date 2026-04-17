@@ -43,14 +43,24 @@ chmod +x ./install.sh
 ---
 ## 💾 Installed programs
 > Terminal: alacritty
+
 > Explorer: nautilus
+
 > Launcher: wofi
+
 > Status bar: waybar
+
 > Text editor: neovim
+
 > Screenshoter: hyprshot
+
 > AUR manager: yay
+
 > Resource monitor: btop
+
 > Network monitors: bandwhich, gping
+
 > Background switcher: awww
+
 > Network manager: networkmanager
 
